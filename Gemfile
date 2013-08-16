@@ -8,3 +8,4 @@ group :assets do
 end
 gem 'jquery-rails'
 gem 'thin'
+gem 'ruby-saml-idp'
